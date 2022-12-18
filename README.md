@@ -2,7 +2,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/XAMPP-fddaa6?style=flat-square&logo=XAMPP&logoColor=#FB7A24"/>
+<img src="https://img.shields.io/badge/XAMPP-efefef?style=flat-square&logo=XAMPP&logoColor=#FB7A24"/>
 <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square&logo=phpMyAdmin&logoColor=white"/>
 </p>
 
