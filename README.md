@@ -16,4 +16,4 @@
      - 프로젝트 파일의 경로는 D:\xampp\htdocs\myproject
      - http://localhost/myproject/index.php URL로 접속
      
-![image](https://user-images.githubusercontent.com/29851772/208310465-c8c6c712-4e3d-4fd6-986a-fb3996e69d78.png)
+![image](https://user-images.githubusercontent.com/29851772/208895314-0c3c6f25-bab1-4543-b3ad-33ec153c8da1.png)
