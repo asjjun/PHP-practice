@@ -1,0 +1,1 @@
+CREATE DATABASE project default character set utf8;
